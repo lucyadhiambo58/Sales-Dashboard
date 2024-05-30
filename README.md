@@ -1,6 +1,7 @@
 **Sales Data Analysis**
 
 **_Purpose_**
+
 The purpose of this project is to analyze sales data to identify trends, top-selling products, and revenue metrics that can assist in business decision-making.
 
 
