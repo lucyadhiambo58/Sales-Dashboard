@@ -41,8 +41,10 @@ _License_
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 _Acknowledgments_
+
 Thanks to the authors of the libraries and tools used in this project.
 Special thanks to any collaborators or mentors who provided guidance.
 
 _Contact_
+
 For any questions or issues, please open an issue in the project repository or contact lucyadhiambo58@gmail.com.
